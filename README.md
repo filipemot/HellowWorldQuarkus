@@ -11,3 +11,7 @@ RestEasy
 **Executar**
 
 ./mvnw compile quarkus:dev
+
+**Chamando API**
+
+[http://localhost:8080/hello](http://localhost:8080/hello)
